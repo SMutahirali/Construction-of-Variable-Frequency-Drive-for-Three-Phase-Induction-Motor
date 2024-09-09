@@ -1,3 +1,17 @@
 # Construction-of-Variable-Frequency-Drive-for-Three-Phase-Induction-Motor
 
-My Final year Project during Bachelor Studies at National University of Science and Technology NUST.
+My final year project during my bachelor's studies at the National University of Science and Technology NUST.
+
+Jointly done by
+
+Syed Mutahir Ali
+
+&
+
+Talha Ahmed
+
+Advisor: Dr Ammar Hassan
+
+
+
+
